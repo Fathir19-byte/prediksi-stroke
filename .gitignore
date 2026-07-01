@@ -1,0 +1,10 @@
+# Helper scripts (tidak perlu di-share)
+generate_notebook.py
+run_notebook.py
+
+# Grafik hasil generate (bisa di-regenerate dari notebook)
+*.png
+
+# Python cache
+__pycache__/
+*.pyc
